@@ -18,14 +18,14 @@ In Characteristics and Benefits of Cloud Computing, you should have learned:
         •	It is also efficient and flexible since there are prebuilt tools and storage options available for the clients. Cloud computing allows users to collaborate and quickly get their products out to the public.
         •	Concepts like virtual private cloud, encryption, and API keys can ensure data is secure. Data loss does not occur because of backups in the cloud.
     
-<ul> Q1: 
-  <li></li>
-  <li></li>
-  <li></li>
+<ul> Q1: What is cloud computing?
+  <li> A marketing term invented by Amazon Web </li>
+  <li> Salesforce applications hosted in a remoted data center </li>
+  <li> On-demand network access to shared resources </li>
+  <il> A hardware server divided into multiple virtual servers </il>
 </ul>
 <details>
   <summary> Answer </summary>
-  
-   x
-
+   On-demand network access to shared resources
 </details>
+
