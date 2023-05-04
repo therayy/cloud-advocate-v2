@@ -26,7 +26,7 @@ In Characteristics and Benefits of Cloud Computing, you should have learned:
 </ul>
 <details>
   <summary> Answer </summary>
-      On-demand network access to shared resources
+  On-demand network access to shared resources
 </details>
 
 <ul> Q2: -	On-demand self-service, broad network access, resource pooling, rapid elasticity, and measured services are considered which of the following?
@@ -38,7 +38,7 @@ In Characteristics and Benefits of Cloud Computing, you should have learned:
 </ul>
 <details>
   <summary> Answer </summary>
-       The characteristics of the cloud computing according to NIST
+  The characteristics of the cloud computing according to NIST
 </details>
 
 
