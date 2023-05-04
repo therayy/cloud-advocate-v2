@@ -41,4 +41,13 @@ In Characteristics and Benefits of Cloud Computing, you should have learned:
   The characteristics of the cloud computing according to NIST
 </details>
 
-
+<ul> Q3:Lower IT costs, flexible, efficient, secure, and faster time to market are all benefits of cloud _______. 
+  <li>clustering</li>
+  <li>performance</li>
+  <li>sharing</li>
+  <li>computing </li>
+</ul>
+<details>
+  <summary> Answer </summary>
+    computing
+</details>
