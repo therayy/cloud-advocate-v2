@@ -22,7 +22,7 @@ In Characteristics and Benefits of Cloud Computing, you should have learned:
   <li> A marketing term invented by Amazon Web </li>
   <li> Salesforce applications hosted in a remoted data center </li>
   <li> On-demand network access to shared resources </li>
-  <il> A hardware server divided into multiple virtual servers </il>
+  <li> A hardware server divided into multiple virtual servers </li>
 </ul>
 <details>
   <summary> Answer </summary>
@@ -31,7 +31,7 @@ In Characteristics and Benefits of Cloud Computing, you should have learned:
 
 <ul> Q2: -	On-demand self-service, broad network access, resource pooling, rapid elasticity, and measured services are considered which of the following?
   <li> The characteristics of a service provider according to IBV </li>
-  <li>The characteristics of compute options according to Gartner </li>
+  <li> The characteristics of compute options according to Gartner </li>
   <li> The characteristics of deployment models according to ITG </li>
   <li> The characteristics of the cloud computing according to NIST </li>
 
