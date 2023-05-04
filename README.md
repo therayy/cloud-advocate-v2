@@ -29,7 +29,7 @@ In Characteristics and Benefits of Cloud Computing, you should have learned:
   On-demand network access to shared resources
 </details>
 
-<ul> Q2: -	On-demand self-service, broad network access, resource pooling, rapid elasticity, and measured services are considered which of the following?
+<ul> Q2: On-demand self-service, broad network access, resource pooling, rapid elasticity, and measured services are considered which of the following?
   <li> The characteristics of a service provider according to IBV </li>
   <li> The characteristics of compute options according to Gartner </li>
   <li> The characteristics of deployment models according to ITG </li>
