@@ -24,19 +24,6 @@
 
 </details>
 
-> #### Q: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
-<details>
-  <summary> Answer </summary>
-  
-   
-
-</details>
-
 > #### Q3: 
 - [ ] 
 - [ ] 
@@ -64,19 +51,6 @@
 </details>
 
 > #### Q5: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
-<details>
-  <summary> Answer </summary>
-  
-   
-
-</details>
-
-> #### Q: 
 - [ ] 
 - [ ] 
 - [ ] 
@@ -180,19 +154,6 @@
 
 </details>
 
-> #### Q: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
-<details>
-  <summary> Answer </summary>
-  
-   
-
-</details>
-
 > #### Q13: 
 - [ ] 
 - [ ] 
@@ -246,19 +207,6 @@
 </details>
 
 > #### Q17: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
-<details>
-  <summary> Answer </summary>
-  
-   
-
-</details>
-
-> #### Q: 
 - [ ] 
 - [ ] 
 - [ ] 
