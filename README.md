@@ -650,263 +650,262 @@
 
 ### Summarize emergent cloud deployment models
 
-> #### Q50: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+> #### Q50: What is one benefit of using a distributed cloud model with edge computing?
+- [ ] Personal information is not processed in a user's country of residence
+- [ ] New data centers are only located in one location
+- [ ] Data is processed where it originates 
+- [ ] Users build new data center locations 
 
 <details>
   <summary> Answer </summary>
   
-   
+   Data is processed where it originates
 
 </details>
 
-> #### Q51: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
+> #### Q51: Company XYZ wants to put functionality where it is best supported and cheapest. Which cloud solution would work best for this user?
+- [ ] Distributed Cloud 
+- [ ] PaaS
+- [ ] Hybrid Cloud
+- [ ] Multicloud
 <details>
   <summary> Answer </summary>
   
-   
+   Multicloud
 
 </details>
 
-> #### Q52: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+> #### Q52: What is a way to maximize multicloud benefits?
+- [ ] Rearranging applications and resources from a central location
+- [ ] Managing applications and resources from a central location 
+- [ ] Managing applications and resources from multiple central locations
+- [ ] Numbering applications and resources in order based on location
 
 <details>
   <summary> Answer </summary>
   
-   
+   Managing applications and resources from a central location 
 
 </details>
 
-> #### Q53: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+> #### Q53: What deployment model can IT adopt to avoid Shadow IT?
+- [ ] Private cloud
+- [ ] Multicloud 
+- [ ] Edge computing
+- [ ] Distributed cloud
 
 <details>
   <summary> Answer </summary>
   
-   
+   Multicloud
 
 </details>
 
-> #### Q54: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+> #### Q54: A combination of performance, security, compliance requirement, and pricing are all benefits of adopting a _________ strategy.
+
+- [ ] Private cloud
+- [ ] Multicloud 
+- [ ] Edge computing
+- [ ] Distributed cloud
 
 <details>
   <summary> Answer </summary>
   
-   
+   Multicloud
 
 </details>
 
-> #### Q55: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
+> #### Q55: ____________ and ____________ cloud are not mutually exclusive, having similar features.
+- [ ] Private, Public
+- [ ] Hybrid, Public
+- [ ] Edge computing, Multicloud
+- [ ] Multicloud, Hybrid 
 <details>
   <summary> Answer </summary>
   
-   
+   Multicloud, Hybrid 
 
 </details>
 
-> #### Q56: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+> #### Q56: Which IBM Cloud offering was designed for clients interested in a distributed cloud strategy?
+- [ ] IBM Cloud Satellite 
+- [ ] IBM Cloud Toolchain
+- [ ] IBM Cloud App Connect
+- [ ] IBM Cloud Block Storage
 
 <details>
   <summary> Answer </summary>
   
-   
+   IBM Cloud Satellite 
 
 </details>
 
-> #### Q57: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+> #### Q57: A financial institution utilizes IBM Cloud cloud services to deliver front-end services but due to data compliance regulations, must retain some of the data those systems use on it's legacy system, within its own data center. This institution is using a _______ cloud model.
+- [ ] Hybrid
+- [ ] Multicloud
+- [ ] Edge
+- [ ] Distributed
 
 <details>
   <summary> Answer </summary>
   
-   
+   Hybrid
 
 </details>
 
-> #### Q58: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
+> #### Q58: ____________ computing is a distributed computing model that brings computation and data storage closer to the sources of data.
+- [ ] Perimeter
+- [ ] Edge 
+- [ ] Boundary
+- [ ] Fringe
 <details>
   <summary> Answer </summary>
   
-   
+   Edge
 
 </details>
 
-> #### Q59: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+> #### Q59: Why would a distributed and edge computing model be a good choice for a company to improve their efficiency by bringing computation and data storage closer to the sources of data?
+- [ ] To provide low latency to its applications	 
+- [ ] To provide additional redundancy
+- [ ] provide availability at 99.99%
+- [ ] To provide weaker resiliency
+<details>
+  <summary> Answer </summary>
+   
+  To provide low latency to its applications 
+
+</details>
+</br>
+
+## Section 3: Fundamentals of IBM Cloud	23%
+### Explain the IBM Cloud Interface
+> #### Q60: What components are listed on the cloud console?
+- [ ] Cost generator, catalog, docs, support, calculator, and estimator
+- [ ] Catalog, database, support center, management, calculator, and generator
+- [ ] Catalog, docs, support, manage, cloud shell, and cost estimator 
+- [ ] Catalog, docs, support, manage, shell space, and cost estimator
 
 <details>
   <summary> Answer </summary>
   
-   
+   Catalog, docs, support, manage, cloud shell, and cost estimator 
 
 </details>
 
-> #### Q60: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+> #### Q61: What types of support options are available when using the cloud console? 
+- [ ] Chat, submit a case, phone help line 
+- [ ] Chat, submit documentation, mentor session
+- [ ] Group phone call, personal shopper, phone help line
+- [ ] Chat, submit a help document, phone help line
+
+<details>
+  <summary> Answer </summary>
+   Chat, submit a case, phone help line
+</details>
+
+> #### Q62: Define the IBM Cloud Console
+- [ ] Web interface for users to manage IBM Cloud resources 
+- [ ] Command line interface for users to manage IBM Cloud resources
+- [ ] Downloadable remote desktop application for accessing servers on IBM Cloud
+- [ ] Centralized feature management and configuration service for use with web and mobile apps
 
 <details>
   <summary> Answer </summary>
   
-   
+   Web interface for users to manage IBM Cloud resources
 
 </details>
 
-> #### Q61: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+> #### Q63: In the IBM Cloud Console what menu option would you need to access to inspect past invoices?
+- [ ] Docs
+- [ ] Manage
+- [ ] Support
+- [ ] Catalog
 
 <details>
   <summary> Answer </summary>
   
-   
+   Manage
 
 </details>
 
-> #### Q62: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+> #### Q64: Which option in the IBM Cloud Console lists over 200 products and services that users can choose to implement in web or mobile applications?
+- [ ] Catalog
+- [ ] Docs
+- [ ] Manage
+- [ ] Cost estimator
 
 <details>
   <summary> Answer </summary>
   
-   
+   Catalog
 
 </details>
 
-> #### Q63: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
+> #### Q65: Which IBM Cloud Console option helps architects to determine their monthly expenses for a new service?
+- [ ] Catalog
+- [ ] Docs
+- [ ] Manage
+- [ ] Cost estimator
 <details>
   <summary> Answer </summary>
   
-   
+   Cost estimator
 
 </details>
 
-> #### Q64: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+> #### Q66: Which option in the IBM Cloud Console provides tutorials and helps with development and deployment?
 
+- [ ] Catalog
+- [ ] Docs
+- [ ] Manage
+- [ ] Cost estimator
 <details>
   <summary> Answer </summary>
   
-   
+   Docs
 
 </details>
 
-> #### Q65: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+> #### Q67: Which option in IBM Cloud Console can an administrator invite a new team member to be part of an IBM Cloud access group?
+- [ ] Catalog
+- [ ] Docs
+- [ ] Manage
+- [ ] Cost estimator
 
 <details>
   <summary> Answer </summary>
   
-   
+   Manage
 
 </details>
 
-> #### Q66: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+> #### Q68: What is an IBM Cloud Shell workplace?
+- [ ] A shared environment that teams can use for managing cloud resources
+- [ ] An IBM Cloud graphical user interface that allows admins to control the access
+- [ ] A way to organize Terraform templates and control the access
+- [ ] A personal workspace where a user can run commands and holds user and session data 
 
 <details>
   <summary> Answer </summary>
   
-   
+   A personal workspace where a user can run commands and holds user and session data 
 
 </details>
 
-> #### Q67: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+### Identify the structure of IBM Cloud
+
+> #### Q69: Which type of region provides more resilient cloud services?
+- [ ] Various Zone Region
+- [ ] MultiZone Region
+- [ ] Singular zone region
+- [ ] Single-zone region
 
 <details>
   <summary> Answer </summary>
   
-   
-
-</details>
-
-> #### Q68: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
-<details>
-  <summary> Answer </summary>
-  
-   
-
-</details>
-
-> #### Q69: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
-<details>
-  <summary> Answer </summary>
-  
-   
+   MultiZone Region
 
 </details>
 
@@ -1326,4 +1325,613 @@
 
 </details>
 
+> #### Q102: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q103: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q104: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q105: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q106: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q107: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q108: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q109: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q110: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q111: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+> #### Q1: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+> #### Q1: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q112: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q113: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q114: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q115: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q116: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q117: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q118: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q119: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q120: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q121: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q122: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q123: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q124: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q125: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q126: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q127: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q128: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q129: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q130: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q131: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q132: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q133: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q134: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q135: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q136: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q137: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q138: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q139: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q140: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q141: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q142: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q143: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q144: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q145: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q146: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q147: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q148: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+> #### Q149: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
+
+
+> #### Q150: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+<details>
+  <summary> Answer </summary>
+  
+   
+</details>
