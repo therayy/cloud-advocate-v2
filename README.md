@@ -1,4 +1,4 @@
-## Section 1
+## Section 1: Introduction to Cloud Computing 14%
 ### The Cloud and Why People Use It
 > #### Q1: What is cloud computing?
 - [ ] A marketing term invented by Amazon Web
