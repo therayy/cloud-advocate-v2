@@ -1,67 +1,73 @@
-> #### Q1: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+## Section 1
+### The Cloud and Why People Use It
+> #### Q1: What is cloud computing?
+- [ ] A marketing term invented by Amazon Web
+- [ ] Salesforce applications hosted in a remoted data center
+- [ ] On-demand network access to shared resources 
+- [ ] A hardware server divided into multiple virtual servers
 
 <details>
   <summary> Answer </summary>
   
-   
+   On-demand network access to shared resources 
 
 </details>
 
-> #### Q2: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+> #### Q2: On-demand self-service, broad network access, resource pooling, rapid elasticity, and measured services are considered which of the following?
+- [ ] The characteristics of a service provider according to IBV
+- [ ] The characteristics of compute options according to Gartner
+- [ ] The characteristics of deployment models according to ITG
+- [ ] The characteristics of the cloud computing according to NIST 
 
 <details>
   <summary> Answer </summary>
   
-   
+   The characteristics of the cloud computing according to NIST 
 
 </details>
 
-> #### Q3: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+> #### Q3: Lower IT costs, flexible, efficient, secure, and faster time to market are all benefits of cloud _______.
+- [ ] Clustering
+- [ ] Performance
+- [ ] Sharing
+- [ ] Computing 
 
 <details>
   <summary> Answer </summary>
   
-   
+   Computing
 
 </details>
 
-> #### Q4: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+> #### Q4: Users can take advantage of cloud computing by using the __________ that the cloud provides to react more quickly to changing business needs.
+- [ ] monitoring
+- [ ] artificial intelligence
+- [ ] agility 
+- [ ] security
 
 <details>
   <summary> Answer </summary>
   
-   
+   agility
 
 </details>
 
-> #### Q5: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+> #### Q5: List three types of cloud deployment models.
+- [ ] Public, Private, Hybrid 
+- [ ] Network, Public, Private
+- [ ] Public, Server, Private
+- [ ] Public, Private, Application
 
 <details>
   <summary> Answer </summary>
   
-   
+   Public, Private, Hybrid +
 
 </details>
+
+</br>
+
+### Summarize the history and evolution of the cloud
 
 > #### Q6: 
 - [ ] 
