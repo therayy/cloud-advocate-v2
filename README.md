@@ -909,16 +909,16 @@
 
 </details>
 
-> #### Q70: 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+> #### Q70: What does a data center contain?
+- [ ] Data file storage
+- [ ] Power, compute, network, and storage resources 
+- [ ] Pods of warehouses
+- [ ] Services and apps
 
 <details>
   <summary> Answer </summary>
   
-   
+   Power, compute, network, and storage resources 
 
 </details>
 
